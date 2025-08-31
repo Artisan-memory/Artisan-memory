@@ -51,6 +51,77 @@
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 853 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 36 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌆 Daytime                6 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌃 Evening                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌙 Night                  12 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   11 commits          ██████████░░░░░░░░░░░░░░░   40.74 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Thursday                 5 commits           █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Sunday                   8 commits           ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ██████████████████░░░░░░░   71.43 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Artisan-memory/Artisan-memory/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/08/2025 19:16:02 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
