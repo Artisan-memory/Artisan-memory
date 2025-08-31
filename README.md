@@ -37,7 +37,7 @@
 
 <div align="center">
 
-![git-GeekNerd github stats](https://github-readme-stats.vercel.app/api?username=Artisan-memory&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=11)
+![Artisan-memory github stats](https://github-readme-stats.vercel.app/api?username=Artisan-memory&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=11)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artisan-memory&layout=compact&langs_count=8&card&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=11)
 
 </div>
