@@ -57,7 +57,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 903 Bytes Used in GitHub's Storage 
+> 📦 904 Bytes Used in GitHub's Storage 
  > 
 > 🏆 37 Contributions in the Year 2025
  > 
@@ -94,20 +94,16 @@ Sunday                   8 commits           ███████░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      20 mins             ████████████████████████░   97.93 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ZALUPA_DZ                20 mins             ████████████████████████░   97.94 % 
-learning_windows         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -125,7 +121,7 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Artisan-memory/Artisan-memory/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2025 22:10:53 UTC
+ Last Updated on 11/09/2025 00:54:41 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
