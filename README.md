@@ -51,7 +51,7 @@
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -94,16 +94,21 @@ Sunday                   8 commits           ██████░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      23 mins             ████████████████████████░   94.53 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tryCrackMe               19 mins             ███████████████████░░░░░░   77.37 % 
+untitled2                4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +126,7 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Artisan-memory/Artisan-memory/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2025 22:12:36 UTC
+ Last Updated on 13/11/2025 00:58:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
